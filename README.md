@@ -1,5 +1,5 @@
 # Dynamic Tabs
-![image](https://github.com/KotaYamini/Dynamic-Tabs/assets/48117959/baa01274-9c90-42e5-bda1-67d2f9df7589)
+![image](https://github.com/KotaYamini/Dynamic-Tabs/assets/48117959/7a168ec9-83fb-42ae-a5fb-88d43577f20b)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
