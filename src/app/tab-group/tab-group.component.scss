@@ -8,12 +8,12 @@
     cursor: pointer;
     border: 1px solid #ccc;
     border-bottom: none;
-    background-color: #000;
-    color: #fff;
+    background-color: grey;
+    color: #000;
 }
 
 .tab.active {
-    background-color: black;
+    background-color: green;
     border-bottom: 1px solid green;
 }
 
